@@ -3,49 +3,49 @@
     {
       "name": "Wordle",
       "desc": "Guess the daily word in 6 tries.",
-      "icon": "/a/images/ga/word.webp",
+      "icon": "/logos/wordle.webp",
       "url": "https://www.nytimes.com/games/wordle/index.html"
     },
     {
       "name": "Cookie Clicker",
       "desc": "Addictive incremental cookie-clicking game.",
-      "icon": "/a/images/ga/cc.webp",
+      "icon": "/logos/cc.webp",
       "url": "https://orteil.dashnet.org/cookieclicker/"
     },
     {
       "name": "SmashKarts",
       "desc": "Battle against others in kart-style combat.",
-      "icon": "/a/images/ga/sk.webp",
+      "icon": "/logos/smash-karts.webp",
       "url": "https://smashkarts.io/"
     },
     {
       "name": "BlockBlast",
       "desc": "Puzzle-style block game.",
-      "icon": "/a/images/ga/bb.webp",
+      "icon": "/logos/blockblast.webp",
       "url": "https://reunbozdo.github.io/"
     },
     {
       "name": "FNAF",
       "desc": "Friday Night Funkin' browser rhythm game.",
-      "icon": "/a/images/ga/fnaf.webp",
+      "icon": "/logos/fnaf.webp",
       "url": "https://fnf.kdata1.com/2024/fnf/5201/"
     },
     {
       "name": "OvO",
       "desc": "Speedrun-style parkour platformer.",
-      "icon": "/a/images/ga/ovo.webp",
+      "icon": "/logos/ovo.webp",
       "url": "https://www.coolmathgames.com/0-ovo/play"
     },
     {
       "name": "digdigIo",
       "desc": "Multiplayer digging battle game.",
-      "icon": "/a/images/ga/dig.webp",
+      "icon": "/logos/dig.webp",
       "url": "https://digdig.io/"
     },
     {
       "name": "2048",
       "desc": "Slide tiles to reach 2048.",
-      "icon": "/a/images/ga/2048.webp",
+      "icon": "/logos/2048.webp",
       "url": "https://2048game.com/"
     },
     {
@@ -281,7 +281,7 @@
     {
       "name": "GitHub",
       "desc": "Host and collaborate on code repositories.",
-      "icon": "/a/images/gh.png",
+      "icon": "/logos/gh.png",
       "url": "https://www.github.com"
     }
   ]
